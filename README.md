@@ -1,14 +1,15 @@
 # BattlEggs
 
-## Projet réalisé lors du Hackathon 24h Avril 2019 - Prix : Vainqueur WCS Bordeaux Promo Février 2019
+## Projet réalisé lors du Hackathon de  24h, les 18-19 Avril 2019
+ Notre projet a remporté le premier prix sur les projets de la Wild Code School de Bordeaux
 
 ### Description
 
-Réalisé un site en utilisant une API sur le thème de pâque.
+Réaliser un site en utilisant une API sur le thème de pâques.
 
-### Demo
+Nous avons utilisé le modèle Simple-MVC, interne à la Wild, qui nous a permis d'aborder plus facilement Symfony
 
-https://battleggs.elneris.zd.fr/
+
 
 ### Equipe
 
